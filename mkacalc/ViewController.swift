@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
+    //MAIN: UIbuttons
     @IBOutlet weak var AC: UIButton!
     @IBOutlet weak var button2: UIButton!
     @IBOutlet weak var but3: UIButton!
